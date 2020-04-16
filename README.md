@@ -2,7 +2,7 @@
 
 C++ Implementation of PointCloud Denoising with Guided Filter originally defined in http://kaiminghe.com/publications/pami12guidedfilter.pdf 
 
-Requires  PCL and Eigen libabries. 
+Requires  PCL(prefers 1.7) and Eigen Libraries. 
 
 ## Algorithm definition; 
 
@@ -15,7 +15,7 @@ Requires  PCL and Eigen libabries.
 ### Noise Added to Original Cloud;
 ![.](img/bunny_noisy.png)
 
-### Noise Added to Original Cloud;
+### Result of Smoothing;
 ![.](img/bunny_smoothed.png)
 
 ## Installation and Usage
