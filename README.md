@@ -20,7 +20,7 @@ Requires  PCL(prefers 1.7) and Eigen Libraries.
 
 ## Installation and Usage
 ```cpp
-git clone https://github.com/jediofgeverguided_filter_point_cloud_denoising.git
+git clone https://github.com/jediofgever/guided_filter_point_cloud_denoising.git
 cd guided_filter_point_cloud_denoising
 mkdir build && cd build
 cmake .. 
